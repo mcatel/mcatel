@@ -1,4 +1,17 @@
-## Olá, eu sou o Mateus Catel!
+# Hi there 👋! 
+
+<div>
+  <p>
+    <b>I'm a Full-Stack Developer working in Brazil.</b>
+  </p>
+  
+  <ul>
+    <li>🏢 Currently working at: <a alt="Attivilog" href="https://www.attivilog.com.br"><b>Attivilog</b></a></li>  
+    <li>💻 Working daily with: <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.jsx</code>, <code>.sql</code></li>
+    <li>📚 Learning about: <b>UI/UX</b></li> 
+    <li>🎮 Fun fact: I'm a Thresh player</li>
+  </ul>
+</div>
 
 <div align="center">
   <a href="https://github.com/mcatel">
