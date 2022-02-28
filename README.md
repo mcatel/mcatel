@@ -8,8 +8,10 @@
   <ul>
     <li>🏢 Currently working at: <a alt="Attivilog" href="https://www.attivilog.com.br"><b>Attivilog</b></a></li>  
     <li>💻 Working daily with: <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.jsx</code>, <code>.sql</code></li>
+    <li>🏫 Academic education: Analysis and systems development</li>
     <li>📚 Learning about: <b>UI/UX</b></li> 
     <li>🎮 Fun fact: I'm a Thresh player</li>
+    
   </ul>
 </div>
 
