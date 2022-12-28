@@ -6,7 +6,7 @@
   </p>
   
   <ul>
-    <li>🏢 Currently working at: <a alt="Attivilog" href="https://www.attivilog.com.br"><b>Attivilog</b></a></li>  
+    <li>🏢 Currently working at: <b>Cargozilla</b></li>  
     <li>💻 Working daily with: <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.jsx</code>, <code>.sql</code></li>
     <li>🏫 Academic education: Analysis and systems development</li>
     <li>📚 Learning about: <b>UI/UX</b></li> 
