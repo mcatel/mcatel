@@ -51,7 +51,5 @@
   <a href="https://dev.to/mcatel" target="_blank">
     <img src="https://img.shields.io/badge/Dev.To-000000?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
   </a>
-  
-  ![Snake animation](https://github.com/mcatel/mcatel/blob/output/github-contribution-grid-snake.svg)
 </div>
 
